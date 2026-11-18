@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🥜 Low-Cost Cardboard Peanut Skinner
+# 🥜 Low-Cost Mechanical Cardboard Peanut Skinner
 
 **An open-source, hand-cranked peanut skinner (peeler) with an inclined discharge chute, built from everyday materials.**
 
