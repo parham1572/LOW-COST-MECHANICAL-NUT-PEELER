@@ -88,18 +88,12 @@ This project is an ultra-low-cost, hand-cranked machine that removes the skins f
 2. Cut a circular inner drum and mount it securely on the central turning axle, with a hand crank on the outside end.
 3. Cut a viewing window in one side stand and seal it with clear plastic so you can see the skinning gap.
 
-![Viewing Window Detail](viewing_window.jpg)
-*Figure 5: Side window detail, showing peanuts moving through the drum gap.*
-
 ### Step 2: Skinning Chamber and Gap Setup
 
 1. Wrap and glue 120-grit sandpaper around the rotating inner drum.
 2. Glue 2–4 cardboard paddles horizontally across the inner drum, spaced evenly around it, so they tumble the peanuts and push them against the outer wall.
 3. Form the curved, stationary outer drum wall and line its inner surface with 120-grit sandpaper.
 4. Insert cardboard shims behind the outer wall to set a **10–11 mm clearance gap** between the paddles and the outer wall.
-
-![Paddles and Gap Detail](paddles_and_gap.jpg)
-*Figure 6: Close-up of the cardboard paddles and the cardboard shims that set the 10–11 mm gap.*
 
 ### Step 3: Discharge Hatch and Chute
 
